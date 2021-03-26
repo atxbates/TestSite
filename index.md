@@ -11,15 +11,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### This is the header 3
+# Bedwell Arms, LLC
+## Business Management Consulting
+### Commmercialization Strategies for the 21st Century
 
-- Bulleted
-- List
+- Customer Discovery
+- Opening New Markets
+- Pricing Strategies
+- Commercialization Roadmap
+- Business Development
 
-1. Numbered
-2. List
+1. Contact us for an initial consultation
+2. Develop a plan of action with realistic goals and timelines
+3. Execute the plan together
 
 **Bold** and _Italic_ and `Code` text
 
